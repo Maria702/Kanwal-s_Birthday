@@ -1,0 +1,41 @@
+
+.container{ 
+    max-width: 800px;
+    margin:20px;
+    padding: 10px;
+    align-items: center;
+}
+h2{
+    color: rgb(141, 5, 96);
+    font: bold;
+    font-style: italic;
+    font-size: 50px;
+   
+}
+.text{
+    color: rgb(138, 13, 117);
+    font-size: 50px;
+     font-family: cursive;
+    font-style: italic;
+}
+
+.back{
+    font-size: 30px;
+    color: darkviolet;
+}
+
+#more{
+    display: none;
+}
+button{
+    background-color: rgb(155, 11, 199);
+    width: 180px;
+    height: 50px;
+    border-radius: 20px;
+    color: ghostwhite;
+    font-size: 20px;
+}
+button:hover{
+    background-color: rgba(105, 238, 255, 0.89);
+    box-shadow: 2px 4px  hotpink;
+}

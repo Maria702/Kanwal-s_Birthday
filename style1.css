@@ -1,0 +1,39 @@
+body{
+    background-image: url(img/dec3.jpg);
+    background-repeat: round;
+    background-size: cover; 
+
+    
+}
+.container{ 
+    max-width: 800px;
+    margin:20px;
+    padding: 10px;
+    align-items: center;
+}
+
+.img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    
+}
+
+.para1{
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    background-color: rgba(229, 234, 243, 0.438);
+    color: rgb(12, 5, 77);
+    font: bolder;
+
+}
+
+.a{
+    font-size: 40px;
+    border-radius: 25px;
+    justify-content: center;
+    color: crimson;
+    background-color: rgba(0, 170, 192, 0.342);
+}
